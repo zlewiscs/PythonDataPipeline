@@ -1,7 +1,7 @@
 # PythonDataPipeline
 
 ## Project Overview
-This personal project is undertaken with the purpose of learning about data processing and analytics for the first time. The project should help with familiarising with popular data processing and analytics frameworks such as pandas and pyTorch. Ideally some machine learning models will be incorporated at later stage as skill allows
+This project is a personal undertaking with the purpose of learning about data processing and analytics for the first time. The project should help with familiarising with popular data processing and analytics frameworks such as pandas and pyTorch. Ideally some machine learning models will be incorporated at later stage as skill allows
 
 ## Data Source
 The data source for this project should be completely open for use for any purpose, hence a open dataset should be chosen. Currently the dataset in mind is from the International Energy Agency titied "Critical Minerals Demand Dataset" (https://www.iea.org/data-and-statistics/data-product/critical-minerals-demand-dataset). Depending on difficulty, a more simple or chanllenging dataset will be chosen. There is no particular reason for choosing this dataset other than the fact that it was easy to get my hands on.
